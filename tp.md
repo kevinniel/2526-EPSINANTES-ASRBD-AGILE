@@ -10,7 +10,7 @@ Travail en équipe obligatoire. Voici la composition :
 - Elios
 - Alexandre
 
-## Equipe 2
+## Equipe 2 (https://github.com/AnythingLegalConsidered/EPSI-B3-ASRBD-Agile-G2)
 - Ianis
 - Blaise
 - Zaid
