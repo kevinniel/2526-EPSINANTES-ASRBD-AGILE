@@ -4,7 +4,7 @@
 
 Travail en équipe obligatoire. Voici la composition :
 
-## Equipe 1
+## Equipe 1 (https://github.com/maximeraud/Agile_Kube)
 - Kylian
 - Maxime
 - Elios
