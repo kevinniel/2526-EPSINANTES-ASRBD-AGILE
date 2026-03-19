@@ -63,6 +63,18 @@ Le formateur joue le rôle du client.
 - Clarifier les besoins
 - Identifier les premières fonctionnalités
 
+## Questions & réponses :
+
+Questions du 19/03 à 10h41 (groupe 1) :
+
+- Quelles technologies ? Symfony & PHP en back, React en Front
+- Quels ports ? allons-y pour le plus sécurisé tant qu'on peut avoir des certificats SSL
+- Ai-je une IP dédiée ? oui j'en aurais une mais je ne la connais pas pour l'instant
+- Combien d'utilisateurs ? 1.000 en simultané
+- Est-ce que j'aurais besoin d'une partie de logs ? oui -> obligatoire !
+- Besoins spécifiques par rapport aux logs ? non, pas à ma connaissance
+- Besoin de monitoring ? oui si c'est une application avec une interface.
+- Deadline pour la fin du projet ? le 8 Avril à 12h.
 
 # 3️⃣ Construction du Product Backlog
 
