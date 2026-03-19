@@ -76,6 +76,7 @@ Questions du 19/03 à 10h41 (groupe 1) :
 - Besoin de monitoring ? oui si c'est une application avec une interface.
 - Deadline pour la fin du projet ? le 8 Avril à 12h.
 - Est-ce que l'application doit être consultable depuis l'extérieur ou uniquement en interne à une entreprise ? Extérieur !
+- INFO : Pas d'image fournie, il faut prendre des images symfony + react existantes pour faire les tests.
 
 # 3️⃣ Construction du Product Backlog
 
