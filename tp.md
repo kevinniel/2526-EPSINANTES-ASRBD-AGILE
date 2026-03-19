@@ -16,7 +16,7 @@ Travail en équipe obligatoire. Voici la composition :
 - Zaid
 - Ojvind
 
-## Equipe 3
+## Equipe 3 (https://github.com/ewanlenogue/Agile_GRP_3)
 - Ismaël
 - Ewan
 - Florent
