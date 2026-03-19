@@ -41,7 +41,6 @@ Votre mission est de déployer une plateforme Kubernetes capable d’héberger :
 
 ⚠️ Le client (moi 😇) pourra modifier les besoins à tout moment.
 
-----------
 
 # 1️⃣ Création des équipes
 
@@ -53,7 +52,6 @@ Attribution des rôles :
 🧑‍🔧 1 Scrum Master
 👨‍💻 Dev Team (reste du groupe)
 
-----------
 
 # 2️⃣ Présentation du besoin
 
@@ -65,7 +63,6 @@ Le formateur joue le rôle du client.
 - Clarifier les besoins
 - Identifier les premières fonctionnalités
 
-----------
 
 # 3️⃣ Construction du Product Backlog
 
@@ -108,7 +105,6 @@ Une tâche est terminée si :
 - Déployée (Kubernetes)
 - Documentée
 
-----------
 
 # 4️⃣ Estimation (Planning Poker)
 
@@ -121,7 +117,7 @@ Objectif
 - Estimer la complexité
 - Aligner l’équipe
 
-------------
+
 
 # 5️⃣ Sprint 1 (0,5 jour)
 
@@ -216,9 +212,9 @@ Travaux possibles :
 
 👉 Même organisation
 
-------------------
 
-------------------
+
+
 
 # 📦 Livrables à rendre
 
