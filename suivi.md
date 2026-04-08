@@ -20,3 +20,7 @@
 - Groupe 2 : Ils galèrent sur la technique, et galère sur les US qu'ils ont réalisé. Ils ont bien documenté la partie Agile, mais ils galèrent sur la technique pure, ce qui fait qu'ils sont "lents" sur la réalisation technique. Ils ont fait 2 issues sur 10 planifiées sur Github. Il leur reste a push aussi les docs à jour sur Github (pas fait à 16h56 pour le moment). Pas de sprint review car pas d'avancement technique suffisant. Manque de connaissances de Ianis sur le sujet pour aider Ojvind qui galère tout seul de son côté visiblement.
 
 # 08/04/2026 matin
+
+- Groupe 1 : Ils ont bien avancé et été efficace sur les tâches et ce qu'ils souhaitaient faire. Ils ont bien mis en place un kanban et ont bien réalisé leur poker planning. Le retex est complet et bien mené. L'autonomie entre les rôles à bien été acceptée et mise en oeuvre. En points négatifs : pas grand chose à été remonté sinon niveau technique parce qu'ils ne savent pas comment créer de tests sur kubernetes. C'est un axe d'amélioration qu'ils ont soulevé. La partie idéation est aussi bien amenée, même s'ils restent - logiquement - sur du spéculatif. Un vrai travail de fond semble avoir été mené avec attention et la présentation réalisée est très bien menée également.
+- Groupe 2 :
+- Groupe 3 :
